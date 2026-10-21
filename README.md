@@ -1,4 +1,4 @@
-# flower-shop-pl-demo
+# flower-shop-eng-demo
 
 A custom-coded, single-page website mockup for a fictional florist business. Built as a demonstration piece for my web development portfolio with a strict, editorial-style design.
 
